@@ -1,0 +1,4 @@
+#Mon Nov 30 16:35:29 CST 2020
+base.0=/Users/yangguang17/Desktop/ubw/github/hostDemo/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
